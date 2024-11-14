@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_available">no_data_available</string>
+    <string name="berita">berita</string>
+    <string name="history">History</string>
+    <string name="hapus">Hapus</string>
+    <string name="indonesia_health_news">Indonesia Health News</string>
+</resources>
